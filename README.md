@@ -1,2 +1,4 @@
 # Bitcoin-Balance
-Bitcoin Balance Android App
+The Bitcoin Balance Android App is a simple application to help you out by scanning a valid QR Code and getting the Bitcoin's Wallet balance. 
+# Found any bug?
+You're welcome to report it via the https://github.com/eorghe/Bitcoin-Balance/issues
