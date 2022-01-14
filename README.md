@@ -6,4 +6,4 @@ You're welcome to report it via the https://github.com/eorghe/Bitcoin-Balance/is
 
 # About us
 Made by [**S.C. Eorghe S.R.L.**](https://eorghe.eu), a Software Based company specialized on Software Development based in Curatele, Romania. 
-For any question please contact at info [at] eorghe.eu
+For any question please contact at info [at] eorghe.eu or by visiting us at https://eorghe.eu
